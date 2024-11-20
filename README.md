@@ -16,3 +16,14 @@ The primary source of data used is data Sales.csv. This ia an open source data t
 - SQL- Structured Query Language for Querying of data
 - GitHub for porifolio
 
+### Data cleaning and preparations
+In the initial phase of the Data Cleaning and preparations, we perform the following action;
+1. Data loading and inspection
+2. Handling missing Variables
+3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+EDA involves the exploring of the data to answer some questions about the Data such as;
+- What is the oveerall sales trend
+- What are the product on peak sales
+- Which product are top Sellers?
